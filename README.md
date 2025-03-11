@@ -3,7 +3,6 @@ Evaluates several machine learning algorithms to predict heart failure deaths
 
 Authors: Mason Smith, Arnel Garcesa, Sonia Hernandez, Romney Kellogg, Maddie Molnar
 
-For code and implmentation see ..
 
 ## Introduction 
 The project involved using a dataset that tracked death events for patients with heart failure. The dataset has a binary response of DEATH_EVENT due to heart failure. There are ~13 features in the dataset, and the data was collected over 8 months on 299 patients [1]. We are comparing different models to see which one works best on this data set. We are doing this because heart failure affects more 64 million individuals globally, and a predictive model would be helpful to prevent future deaths [3]. As such, we are investigating which model is the best approach to predict if a heart failure patient will die. There are a variety of stakeholders for the models we create, such as insurance companies, hospitals, and researchers. As such, there is clearly a need for these models. 
